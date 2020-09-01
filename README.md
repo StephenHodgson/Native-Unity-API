@@ -2,6 +2,8 @@
 
 C++ Headers for Unity Native Plugins for creating your own native plugins inside the [Unity 3d Game Editor](https://unity.com).
 
+I havn't tested this out on every version of the editor, so best bet is to only use it for 2019.4+
+
 ## Contents
 
 - Native Graphics APIs
