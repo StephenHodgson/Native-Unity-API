@@ -13,4 +13,4 @@ I havn't tested this out on every version of the editor, so best bet is to only 
 
 ## License
 
-These files are provided as is, and are licensed under [Unity's Unity Companion License](LICENSE.md).
+These files are provided as is, and are licensed under the [Unity Companion License](LICENSE.md).
